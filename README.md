@@ -6,9 +6,9 @@ HealthGuard is a full-stack healthcare management system built using **PHP and M
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔹 Admin Dashboard
+###  Admin Dashboard
 
 The Admin panel provides full control over the system:
 
@@ -19,7 +19,7 @@ The Admin panel provides full control over the system:
 
 ---
 
-### 🔹 Doctor Dashboard
+###  Doctor Dashboard
 
 Doctors can manage their daily workflow:
 
@@ -31,7 +31,7 @@ Doctors can manage their daily workflow:
 
 ---
 
-### 🔹 Patient Dashboard
+###  Patient Dashboard
 
 Patients can interact with the system:
 
@@ -43,7 +43,7 @@ Patients can interact with the system:
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 The system uses a structured MySQL database (`healthguard`) with multiple related tables.
 
@@ -55,9 +55,9 @@ The database demonstrates:
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
-### 🔹 Admin Panel
+###  Admin Panel
 
 ![Admin](screenshots/admin1.png)
 ![Admin](screenshots/admin2.png)
@@ -68,7 +68,7 @@ The database demonstrates:
 
 ---
 
-### 🔹 Doctor Panel
+###  Doctor Panel
 
 ![Doctor](screenshots/doctor1.png)
 ![Doctor](screenshots/doctor2.png)
@@ -80,7 +80,7 @@ The database demonstrates:
 
 ---
 
-### 🔹 Patient Panel
+###  Patient Panel
 
 ![Patient](screenshots/patient1.png)
 ![Patient](screenshots/patient2.png)
@@ -91,13 +91,13 @@ The database demonstrates:
 
 ---
 
-### 🔹 Database Design
+###  Database Design
 
 ![Database](screenshots/DB_Designer.png)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * PHP
 * MySQL
@@ -108,7 +108,7 @@ The database demonstrates:
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 1. Install WAMP or XAMPP
 2. Move the project folder to:
@@ -139,7 +139,7 @@ http://localhost/HealthGuard/
 
 ---
 
-## ⚠️ Current Limitations
+##  Current Limitations
 
 * Some features are still under development
 * UI improvements are planned
@@ -147,7 +147,7 @@ http://localhost/HealthGuard/
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 
 * Role-based system (Admin / Doctor / Patient)
 * Full database integration
@@ -157,13 +157,13 @@ http://localhost/HealthGuard/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Mohammad Bakri
 Software Engineering Student
 
 ---
 
-## 📬 Notes
+##  Notes
 
 This project is part of my learning journey and is continuously being improved.
